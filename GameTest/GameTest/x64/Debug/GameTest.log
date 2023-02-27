@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  PlatformerWindow.cpp
+C:\Dev\GameTest\GameTest\src\PlatformerWindow.cpp(10,29): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Dev\GameTest\GameTest\src\PlatformerWindow.cpp(11,29): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  GameTest.vcxproj -> C:\Dev\GameTest\x64\Debug\GameTest.exe
